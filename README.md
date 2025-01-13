@@ -18,6 +18,16 @@
 
 ---
 
+### 🛠️ Skills
+- **Programming Languages:** Python, JavaScript, C, C++  
+- **Web Development:** HTML5, CSS3, React, Django, Flask, FastAPI  
+- **Database Management:** PostgreSQL
+- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Pandas, Numpy  
+- **Tools & Platforms:** Git, Anaconda, VS Code, PyCharm, Streamlit, Google Colab 
+- **Soft Skills:** Leadership, Collaboration, Communication  
+
+---
+
 ### 📬 How to Reach Me
 📧 Email: **[mm.imtiaz.bhuiyan@gmail.com](mailto:mm.imtiaz.bhuiyan@gmail.com)**  
 💼 LinkedIn: [Imtiaz Bhuiyan](https://www.linkedin.com/in/imtiaz-bhuiyan000/)
