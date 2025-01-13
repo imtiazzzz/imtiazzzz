@@ -13,7 +13,7 @@
 
 ### 🌐 Let's Collaborate!
 🔍 I'm eager to collaborate with:
-- Tech enthusiasts or companies passionate about **Python**, **Machine Learning**, **Web Development**, and **Research**.
+- Tech enthusiasts or companies passionate about **Python**, **Machine Learning**, **Web Development** and **Research**.
 - Projects that challenge creativity and push technological boundaries.
 
 ---
@@ -26,5 +26,5 @@
 ---
 
 ### ⚡ Fun Fact
-I believe **technology** has the power to solve some of the world's biggest challenges, and I’m excited to be a part of this journey!
+I believe **technology** has the power to solve some of the world's biggest challenges and I’m excited to be a part of this journey!
 
