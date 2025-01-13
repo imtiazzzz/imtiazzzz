@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently delving into **cutting-edge technologies and frameworks** to stand out in the tech world.
+- 🔭 I’m currently driving into **cutting-edge technologies and frameworks** to stand out in the tech world.
 - 💡 My research interests focus on **Empirical Software Engineering, Machine Learning and Deep Learning**.
 - 🌟 I have a strong passion for **Python, Machine Learning, Web Development** and **Research**.
 
