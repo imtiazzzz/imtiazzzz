@@ -23,7 +23,7 @@
 - **Web Development:** HTML5, CSS3, React, Django, Flask, RestAPI  
 - **Database Management:** PostgreSQL
 - **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Pandas, Numpy  
-- **Tools & Platforms:** Git, Anaconda, VS Code, PyCharm, Streamlit, Google Colab 
+- **Tools & Platforms:** Git, Anaconda, Visual Studio, VS Code, PyCharm, Streamlit, Google Colab 
 - **Soft Skills:** Leadership, Collaboration, Communication  
 
 ---
