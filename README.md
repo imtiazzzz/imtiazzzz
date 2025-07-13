@@ -30,8 +30,8 @@
 
 ### 📬 How to Reach Me
 📧 Email: **[mm.imtiaz.bhuiyan@gmail.com](mailto:mm.imtiaz.bhuiyan@gmail.com)**  
-💼 LinkedIn: **[Imtiaz Bhuiyan](https://www.linkedin.com/in/imtiaz-bhuiyan000/)**
-🌐 Portfolio: **[Imtiaz Bhuiyan](https://imtiaz-bhuiyan.netlify.app/#home)**
+💼 LinkedIn: **[Imtiaz Bhuiyan](https://www.linkedin.com/in/imtiaz-bhuiyan000/)**   
+🌐 Portfolio: **[Imtiaz Bhuiyan](https://imtiaz-bhuiyan.netlify.app/#home)**   
 🔗 LeetCode: **[Imtiaz Bhuiyan](https://leetcode.com/u/imtiazzzzz/)**
 
 ---
