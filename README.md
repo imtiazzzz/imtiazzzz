@@ -19,11 +19,11 @@
 ---
 
 ### 🛠️ Skills
-- **Programming Languages:** Python
-- **Web Development:** HTML5, CSS3, JavaScript, React, Django, Flask, RestAPI  
+- **Programming Languages:** Python, JavaScript
+- **Framework:** Django, Django Rest Framework, React, Flask, FastAPI  
 - **Database Management:** PostgreSQL
-- **Machine Learning:** Scikit-Learn, TensorFlow, PyTorch, Pandas, Numpy  
-- **Tools & Platforms:** Git, Anaconda, Visual Studio, VS Code, PyCharm, Streamlit, Google Colab 
+- **Machine Learning:** Pandas, Numpy, Scikit-Learn, TensorFlow, PyTorch   
+- **Dev Tools & Platforms:** Git, VS Code, Visual Studio, PyCharm, Anaconda, Google Colab, Streamlit 
 - **Soft Skills:** Leadership, Collaboration, Communication  
 
 ---
