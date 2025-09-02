@@ -1,6 +1,6 @@
 # Hi there, I'm Imtiaz 👋
 
-🎯 **Aspiring Software Engineer | Research Enthusiast | Tech Explorer**
+🎯 **Software Engineer | Research Enthusiast | Tech Explorer**
 
 ---
 
