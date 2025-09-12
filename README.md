@@ -51,7 +51,8 @@
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 
-**Soft Skills:** Leadership, Collaboration, Communication  
+**Soft Skills** 
+Leadership | Collaboration | Communication | Problem Solving | Critical Thinking
 
 ---
 
@@ -66,7 +67,7 @@
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazBhuiyan&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazBhuiyan&theme=radical)  
+
 
 
 
