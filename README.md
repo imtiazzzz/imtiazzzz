@@ -5,16 +5,16 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently driving into **cutting-edge technologies and frameworks** to stand out in the tech world.
-- 💡 My research interests focus on **Empirical Software Engineering, Machine Learning and Deep Learning**.
-- 🌟 I have a strong passion for **Python, Machine Learning, Web Development** and **Research**.
+- 🔭 Exploring **cutting-edge technologies** to build impactful solutions.
+- 💡 Research interests: **Empirical Software Engineering, Machine Learning, Deep Learning**.
+- 🌟 Passionate about **Python, Machine Learning, Web Development** and **Research**.
 
 ---
 
 ### 🌐 Let's Collaborate!
-🔍 I'm eager to collaborate with:
-- Tech enthusiasts or companies passionate about **Python**, **Machine Learning**, **Web Development** and **Research**.
-- Projects that challenge creativity and push technological boundaries.
+🔍 Open to working with:
+- Developers, researchers and companies in **Python, Machine Learning, Web Development, and Research**.
+- Projects that **push creativity and technical boundaries.**
 
 ---
 
@@ -34,8 +34,5 @@
 🌐 Portfolio: **[Imtiaz Bhuiyan](https://imtiaz-bhuiyan.vercel.app/)**   
 🔗 LeetCode: **[Imtiaz Bhuiyan](https://leetcode.com/u/imtiazzzzz/)**
 
----
 
-### ⚡ Fun Fact
-I believe **technology** has the power to solve some of the world's biggest challenges and I’m excited to be a part of this journey!
 
