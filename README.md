@@ -64,7 +64,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImtiazBhuiyan&show_icons=true&theme=radical)  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazBhuiyan&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ImtiazBhuiyan&theme=radical)  
 
