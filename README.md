@@ -66,9 +66,7 @@ Leadership | Collaboration | Communication | Problem Solving | Critical Thinking
 
 ---
 
-### 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImtiazBhuiyan&layout=compact&theme=radical)  
 
 
 
